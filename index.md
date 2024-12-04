@@ -89,8 +89,9 @@ If your application is not listed or your application is listed and you’d like
 * Updated December 13, 2016 with org.nspasteboard.source; removed PTH Pasteboard, as it is no longer available.
 * Updated January 12, 2017 with scenario where empty org.nspasteboard.source could be used.
 * Updated June 19, 2020 with https URLs and List of Applications.
-* Duplicated May 31, 2024 from [https://nspasteboard.org/](https://nspasteboard.org/), now hosted on a [github page](https://github.com/utiscc/utiscc.github.io), under the utis.cc domain.
-* Moved Nov 19, 2025 to a github page under the NSPasteboard organization, with moving the nspasteboard.org domain to this site in the near future.
+* May 31, 2024: Duplicated from [https://nspasteboard.org/](https://nspasteboard.org/), now hosted on a [github page](https://github.com/utiscc/utiscc.github.io), under the utis.cc domain.
+* Nov 19, 2024: Moved to a github page under the NSPasteboard organization.
+* Dev 4, 2024: Took over posession of the nspasteboard.org domain and pointing it to this github pages repository.
 
 ## Contact
 
