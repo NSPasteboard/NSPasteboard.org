@@ -91,7 +91,7 @@ If your application is not listed or your application is listed and you’d like
 * Updated June 19, 2020 with https URLs and List of Applications.
 * May 31, 2024: Duplicated from [https://nspasteboard.org/](https://nspasteboard.org/), now hosted on a [github page](https://github.com/utiscc/utiscc.github.io), under the utis.cc domain.
 * Nov 19, 2024: Moved to a github page under the NSPasteboard organization.
-* Dev 4, 2024: Took over posession of the nspasteboard.org domain and pointing it to this github pages repository.
+* Dec 4, 2024: Took over posession of the nspasteboard.org domain and pointing it to this github pages repository.
 
 ## Contact
 
