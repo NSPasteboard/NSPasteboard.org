@@ -96,4 +96,4 @@ If your application is not listed or your application is listed and you’d like
 
 tempelmann+utiscc@gmail.com
 
-Or submit a change to this page through [github](https://github.com/NSPasteboard/NSPasteboard.org)
+Or submit a change to this page through [github](https://github.com/NSPasteboard/NSPasteboard.org/blob/main/index.md)
