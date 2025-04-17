@@ -27,6 +27,10 @@ Known ‘proprietary’ pasteboard marker types identifying the pasteboard conte
 
 * 1Password: `com.agilebits.onepassword`
 
+Known pasteboard marker type for identifying pasteboard content copied from another device ("Handoff"):
+
+* Apple: `com.apple.is-remote-clipboard`
+
 ## Universal Identifiers
 
 To avoid a proliferation of marker types from a variety of developers, use these universal identifiers:
@@ -65,6 +69,7 @@ These applications support all or some of the universal and/or proprietary ident
 |---|---|---|
 |1Password |https://1password.com ||
 |Butler |https://manytricks.com/butler |1|
+|ClipBook|https://clipbook.app||
 |CopyPaste Pro |https://plumamazing.com/product/copypaste-pro-for-mac/ ||
 |Enpass|https://enpass.io |4|
 |Grammarly for Mac | https://www.grammarly.com/desktop/mac|5|
@@ -98,6 +103,7 @@ If your application is not listed or your application is listed and you’d like
 * Dec 4, 2024: Took over possession of the nspasteboard.org domain and pointing it to this github pages repository.
 * Dec 4, 2024: Adds Enpass to List of Apps.
 * Apr 16, 2025: Adds Grammarly for Mac.
+* Apr 17, 2025: Adds "com.apple.is-remote-clipboard" identifier and ClipbBook app.
 
 ## Contact
 
