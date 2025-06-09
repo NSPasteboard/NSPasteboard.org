@@ -68,6 +68,7 @@ These applications support all or some of the universal and/or proprietary ident
 |Application|URL|Notes|
 |---|---|---|
 |1Password |https://1password.com ||
+|Alfred |https://www.alfredapp.com ||
 |Butler |https://manytricks.com/butler |1|
 |ClipBook|https://clipbook.app||
 |CopyPaste Pro |https://plumamazing.com/product/copypaste-pro-for-mac/ ||
@@ -104,6 +105,7 @@ If your application is not listed or your application is listed and you’d like
 * Dec 4, 2024: Adds Enpass to List of Apps.
 * Apr 16, 2025: Adds Grammarly for Mac.
 * Apr 17, 2025: Adds "com.apple.is-remote-clipboard" identifier and ClipbBook app.
+* Jun 9, 2025: Adds Alfred.
 
 ## Contact
 
