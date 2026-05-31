@@ -71,6 +71,7 @@ These applications support all or some of the universal and/or proprietary ident
 |Alfred |https://www.alfredapp.com ||
 |Awesome Copy |http://awesomecopy.app |6|
 |Butler |https://manytricks.com/butler |1|
+|Buffer |https://github.com/samirpatil2000/Buffer ||
 |ClipBook|https://clipbook.app||
 |CopyPaste Pro |https://plumamazing.com/product/copypaste-pro-for-mac/ ||
 |Enpass|https://enpass.io |4|
@@ -115,6 +116,7 @@ If your application is not listed or your application is listed and you’d like
 * Jun 9, 2025: Adds Alfred.
 * Jan 18, 2026: Adds Awesome Copy.
 * May 21, 2026: Added Maccy and TypeWhisper.
+* May 30, 2026: Adds Buffer.
 
 ## Contact
 
